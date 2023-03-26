@@ -5,8 +5,19 @@
 
 
 
-- 🐬I'm an entrepreneur.
-- 🇯🇵Based in Tokyo, Japan.
+- 🐬 I'm an entrepreneur.
+- 🇯🇵 Based in Tokyo, Japan.
+- 🖋️ I'm a sophomore at Keio University, studying commerce.
+
+
+💻Tech stack I usually work with:
+- React
+- Django
+- React
+- Next.js
+- TypeScript
+- AWS Amplify
+
 <!--
 **taksnr/taksnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
