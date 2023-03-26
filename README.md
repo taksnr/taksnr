@@ -7,7 +7,7 @@
 
 - 🐬 I'm an entrepreneur.
 - 🇯🇵 Based in Tokyo, Japan.
-- 🖋️ I'm a sophomore at Keio University, studying commerce.
+- 🦈 I'm a sophomore at Keio University, studying commerce.
 
 ---
 💻 Tech stack I usually work with:
