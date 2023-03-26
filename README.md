@@ -9,8 +9,8 @@
 - 🇯🇵 Based in Tokyo, Japan.
 - 🖋️ I'm a sophomore at Keio University, studying commerce.
 
-
-💻Tech stack I usually work with:
+---
+💻 Tech stack I usually work with:
 - React
 - Django
 - React
