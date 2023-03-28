@@ -13,7 +13,7 @@
 💻 Tech stack I usually work with:
 - React
 - Django
-- React
+- Python
 - Next.js
 - TypeScript
 - AWS Amplify
