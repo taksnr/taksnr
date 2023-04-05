@@ -1,13 +1,11 @@
-### Hi there 👋
-- 🐬 I'm an entrepreneur.
-- 🇯🇵 Based in Tokyo, Japan.
-- 🦈 I'm a sophomore at Keio University, studying commerce.
+### Hi!!!🐬
+- I'm a 自由人
 
 ---
-💻 Tech stack I usually work with:
+### 💻 Tech stack I usually work with:
 - React
 - Next.js
 - TypeScript
 - Node.js
-- Django
 - Amplify
+- Django
