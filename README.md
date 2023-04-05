@@ -12,11 +12,11 @@
 ---
 💻 Tech stack I usually work with:
 - React
-- Django
-- Python
 - Next.js
 - TypeScript
-- AWS Amplify
+- Node.js
+- Django
+- Amplify
 
 <!--
 **taksnr/taksnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
