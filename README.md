@@ -1,5 +1,5 @@
 ### Hi!!!🐬
-- I'm a 自由人
+- I'm a 自由人. I love making something new!
 ---
 ### My Fav🐳
 - camping🔥
