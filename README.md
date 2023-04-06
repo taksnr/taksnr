@@ -1,5 +1,5 @@
 ### Hi!!!🐬
-- I'm a 自由人
+- I'm a 自由人. I love build something new !!!
 ---
 ### My Fav🐳
 - camping🔥
@@ -14,4 +14,4 @@
 - TypeScript
 - Node.js
 - Amplify
-- Django
+- Djangox
