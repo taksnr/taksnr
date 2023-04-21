@@ -13,5 +13,6 @@
 - Next.js
 - TypeScript
 - Node.js
+- Nest.js
 - Amplify
 - Django
