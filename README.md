@@ -8,7 +8,7 @@
 - food🍖
 
 ---
-### 💻 Tech stack I usually work with:
+### Tech stack I usually work with 💻
 - React
 - Next.js
 - TypeScript
