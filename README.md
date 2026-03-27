@@ -1,3 +1,1 @@
-
-
-<img width="1920" height="707" alt="background" src="https://github.com/user-attachments/assets/a73592fb-416c-4f0b-9b28-50ae60abc55e" />
+<img width="1456" height="816" alt="Glossy Silver Fabric" src="https://github.com/user-attachments/assets/7ae5ad25-809c-425e-aeb4-3bd5eff7ea67" />
